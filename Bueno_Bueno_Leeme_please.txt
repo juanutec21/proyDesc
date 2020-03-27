@@ -1,0 +1,19 @@
+En google poner esto:
+
+hemanth.balaji java tutorial
+
+luego ir al link:
+
+Hemanth Balaji
+http://planetsourcecode.com/vb/authors/ShowBio.asp?lngAuthorId=22105881901&lngWId=2
+
+Luego al link:
+
+Categories
+http://planetsourcecode.com/vb/scripts/BrowseAllCategories.asp?lngWId=2
+
+Luego marcar Databases/jdbc
+
+Darle ok
+
+Luego aparecen muchos codigos ya hechos solo para bajarlos. Algunos son Sistemas completos. Inventario por ejm.
